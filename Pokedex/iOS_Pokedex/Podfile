@@ -1,0 +1,5 @@
+target 'iOS_Pokedex' do
+  use_frameworks!
+  platform :ios, '14.1'
+  pod 'Pokelogic', :path => '../Pokelogic'
+end

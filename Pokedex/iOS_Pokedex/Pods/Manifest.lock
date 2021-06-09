@@ -1,0 +1,16 @@
+PODS:
+  - Pokelogic (1.0)
+
+DEPENDENCIES:
+  - Pokelogic (from `../Pokelogic`)
+
+EXTERNAL SOURCES:
+  Pokelogic:
+    :path: "../Pokelogic"
+
+SPEC CHECKSUMS:
+  Pokelogic: bcf4f01b0c130d770d1faabd0e4f84bc6eef76da
+
+PODFILE CHECKSUM: fc8ddc0c34066323721db82c5667a5d4cef03151
+
+COCOAPODS: 1.10.1
